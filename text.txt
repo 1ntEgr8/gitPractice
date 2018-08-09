@@ -7,3 +7,5 @@ This change is in branch 1 only
 
 It looks like I want to make a change in this file. Changing the file will be very easy. Let's hope that there are no conflicts.
 
+I'm gonna make some more changes in this file.
+
