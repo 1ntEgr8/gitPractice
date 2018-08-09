@@ -1,4 +1,6 @@
 This is a text file.
 It contains some kind of text.
 
-Hope this was helpful!!!!1
+Hope this was helpful!!!!
+
+This change is in branch 1 only
