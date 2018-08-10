@@ -2,5 +2,4 @@ This is another file.
 
 I am planning to practice some more fit using this 
 
-I will try changing some aspects of this file on git him and then I will try to resolve all possible conflicts
-
+I'm want the changes I made here to be final.
