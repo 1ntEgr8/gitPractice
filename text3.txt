@@ -1,5 +1,3 @@
-This is another file.
+The name of this branch is b1
 
-I am planning to practice some more fit using this 
-
-I'm sorry to say this, but this has resulted in a conflict. Fortunately, I have managed to resolve the conflict successfully.
+I'm gonna make changes in this b1. 
