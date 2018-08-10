@@ -2,5 +2,5 @@ This is another file.
 
 I am planning to practice some more fit using this 
 
-I will try changing some aspects of this file on git him and then I will try to resolve all possible conflicts
+My changes should be made final
 
