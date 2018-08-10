@@ -2,5 +2,4 @@ This is another file.
 
 I am planning to practice some more fit using this 
 
-My changes should be made final
-
+I'm sorry to say this, but this has resulted in a conflict. Fortunately, I have managed to resolve the conflict successfully.
